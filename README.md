@@ -1,2 +1,3 @@
 # Smart-Calculator
-Smart Calculator is developed by using Python
+This is Smart Calculator developed by using Python, Tkinter
+All the scientific calculations are executed in this calculator
